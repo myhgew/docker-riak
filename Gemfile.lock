@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ethon (0.9.0)
+      ffi (>= 1.3.0)
+    ffi (1.9.10)
+    riak (0.0.1.pre)
+      typhoeus
+    typhoeus (1.0.2)
+      ethon (>= 0.9.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  riak
+
+BUNDLED WITH
+   1.12.2
